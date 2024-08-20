@@ -16,7 +16,7 @@ The environment represents an agricultural field with the following features:
 ## Algorithms
 1. Q-Learning
 A tabular Q-Learning approach is used to estimate the optimal policy for the agent.
-The algorithm iteratively updates the Q-values based on the agent's experience, using the Bellman equation.
+The algorithm iteratively updates the Q-values based on the agent's experience, using the epsilon-greedy algorithm.
 2. Deep Q-Learning (DQN)
 A Deep Q-Network is employed to handle the larger state space and improve the learning process.
 The network approximates the Q-values, enabling the agent to generalize its experience to unseen states.
