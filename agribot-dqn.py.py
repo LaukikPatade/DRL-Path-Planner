@@ -6,7 +6,7 @@ import random
 import torch
 from torch import nn
 import torch.nn.functional as F
-from crop_env import create_environment
+from farm_env import create_environment
 import os
 
 # Define model
