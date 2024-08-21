@@ -21,6 +21,5 @@ The algorithm iteratively updates the Q-values based on the agent's experience, 
 A Deep Q-Network is employed to handle the larger state space and improve the learning process.
 The network approximates the Q-values, enabling the agent to generalize its experience to unseen states.
 
-![FrozenLake2024-08-2122-48-13-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c96a84c4-8399-42ab-beae-2dd46a79ae0f)
-
+![Uploading FrozenLake2024-08-2122-48-13-ezgif.com-video-to-gif-converter.gif…]()
 
