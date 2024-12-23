@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+	<model name="unit_cylinder">
+		<pose frame="">
+			-2 -1 0.133723 -1e-06 1e-06 -1e-06
+		</pose>
+		<scale>
+			0.276215 0.276215 0.267464
+		</scale>
+		<link name="link">
+			<pose frame="">
+				-2 -1 0.133723 -1e-06 1e-06 -1e-06
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.500003
+						</radius>
+						<length>
+							1
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.500003
+						</radius>
+						<length>
+							1
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone">
+		<pose frame="">
+			-2 1 0.133723 -1e-06 1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				-2 1 0.133723 -1e-06 1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_0">
+		<pose frame="">
+			-1 2 0.133732 1e-06 -1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				-1 2 0.133732 1e-06 -1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_1">
+		<pose frame="">
+			-1 0 0.133723 -1e-06 1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				-1 0 0.133723 -1e-06 1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_2">
+		<pose frame="">
+			-1 -2 0.133723 -1e-06 1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				-1 -2 0.133723 -1e-06 1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_3">
+		<pose frame="">
+			0 -1 0.133732 1e-06 -1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				0 -1 0.133732 1e-06 -1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_4">
+		<pose frame="">
+			0 1 0.133723 -1e-06 1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				0 1 0.133723 -1e-06 1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_5">
+		<pose frame="">
+			1 2 0.133732 1e-06 -1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				1 2 0.133732 1e-06 -1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_6">
+		<pose frame="">
+			1 0 0.133723 -1e-06 1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				1 0 0.133723 -1e-06 1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_7">
+		<pose frame="">
+			1 -2 0.133723 -1e-06 1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				1 -2 0.133723 -1e-06 1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_8">
+		<pose frame="">
+			2 -1 0.133723 0 1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				2 -1 0.133723 0 1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+	<model name="unit_cylinder_clone_9">
+		<pose frame="">
+			2 1 0.133723 0 1e-06 0
+		</pose>
+		<link name="link">
+			<pose frame="">
+				2 1 0.133723 0 1e-06 0
+			</pose>
+			<collision name="collision">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</collision>
+			<visual name="visual">
+				<geometry>
+					<cylinder>
+						<radius>
+							0.138108
+						</radius>
+						<length>
+							0.267465
+						</length>
+					</cylinder>
+				</geometry>
+			</visual>
+		</link>
+	</model>
+</sdf>
